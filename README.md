@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ###
  -->
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left"> I'm Harish Naidu from Vijayawada <br><br>- 🔭 I’m currently looking for an Opportunity <br>- 📚 I'm currently learning DSA <br> - ⚡ Interested Roles: Software Developer/ Fullstack Developer</p>
+<p align="left"> I'm Bindu Sri from Vijayawada <br><br>- 🔭 I’m working as a Software Developer at Atachi Systems <br>⚡ Technology : SAP Application Development <br>- 📚 I'm currently learning DSA <br> - ⚡ Interested Roles: SAP Developer/Software Developer/ Fullstack Developer</p>
 
 ###
 
