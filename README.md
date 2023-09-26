@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left"> I'm Bindu Sri from Vijayawada <br><br>- 🔭 I’m working as a Software Developer at Atachi Systems <br>⚡ Technology : SAP Application Development <br>- 📚 I'm currently learning DSA <br> - ⚡ Interested Roles: SAP Developer/Software Developer/ Fullstack Developer</p>
+<p align="left"> I'm Bindu Sri from Vijayawada <br><br>- 🔭 I’m working as a Software Developer at Atachi Systems <br>- ⚡ Technology : SAP Application Development <br>- 📚 I'm currently learning DSA <br> - ⚡ Interested Roles: SAP Developer/Software Developer/ Fullstack Developer</p>
 
 ###
 
